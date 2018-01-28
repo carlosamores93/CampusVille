@@ -1,0 +1,13 @@
+﻿  main.cpp
+  ListaEdificios.cpp
+  Jugador.cpp
+  Edificio.cpp
+  ArchivosBinarios.cpp
+c:\users\carlos\downloads\practica5\practica5\archivosbinarios.cpp(12): warning C4244: 'inicializando' : conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+c:\users\carlos\downloads\practica5\practica5\archivosbinarios.cpp(36): warning C4244: 'inicializando' : conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+  Archivos.cpp
+  Generando código...
+  Compilando...
+  ListaJugadores.cpp
+  Generando código...
+  Practica5.vcxproj -> C:\Users\Carlos\Downloads\Practica5\Debug\Practica5.exe
